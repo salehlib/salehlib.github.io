@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What is This?
+title: Sandbox class at FSCI?
 excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
+modified: 7/31/2017, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
